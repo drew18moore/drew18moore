@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Drew Moore👋
 
-<!--
-**drew18moore/drew18moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew18moore/)
+![](https://komarev.com/ghpvc/?username=drew18moore)
+[![wakatime](https://wakatime.com/badge/user/61e93f41-52a0-4ec6-b931-f6667a0196e6.svg)](https://wakatime.com/@61e93f41-52a0-4ec6-b931-f6667a0196e6)
 
-Here are some ideas to get you started:
+I am a computer science student at UNC Charlotte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :hammer_and_wrench: Skills :
+- Languages: Python, Java, HTML, CSS
+- Databases: MySQL, SQLAlchemy
+- Libraries/Frameworks: Flask, Numpy
+- Some computer vision (machine learning/neural networks/deep learning)
+- Linux
+- Git
+
+### :chart_with_upwards_trend: My GitHub Stats:
+
+![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drew18moore&show_icons=true)
+
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drew18moore&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
