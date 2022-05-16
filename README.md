@@ -9,11 +9,11 @@ I am a computer science student at UNC Charlotte.
 ---
 
 ### :hammer_and_wrench: Skills :
-- Languages: Python, Java, HTML, CSS
+- Languages: Python, Java
+- Web: HTML, CSS, Javascript
 - Databases: MySQL, SQLAlchemy
-- Libraries/Frameworks: Flask, Numpy
-- Some computer vision (machine learning/neural networks/deep learning)
-- Linux
+- Libraries/Frameworks: Flask, Numpy, JQuery
+- Operating Systems: Windows, MacOS, Linux/Unix
 - Git
 
 ### :chart_with_upwards_trend: My GitHub Stats:
