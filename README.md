@@ -1,16 +1,15 @@
 ### Hi there, I'm Drew Moore👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew18moore/)
-![](https://komarev.com/ghpvc/?username=drew18moore)
-[![wakatime](https://wakatime.com/badge/user/61e93f41-52a0-4ec6-b931-f6667a0196e6.svg)](https://wakatime.com/@61e93f41-52a0-4ec6-b931-f6667a0196e6)
 
 I am a computer science student at UNC Charlotte.
 
 ---
 
 ### :hammer_and_wrench: Skills :
-- Languages: Python, Java
-- Web: HTML, CSS, Javascript
+- Languages: Python, Java, C#
+- Web Development: HTML, CSS, Javascript
+- Game Development: Unity, Gamemaker Studio 2
 - Databases: MySQL, SQLAlchemy
 - Libraries/Frameworks: Flask, Numpy, JQuery
 - Operating Systems: Windows, MacOS, Linux/Unix
