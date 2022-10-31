@@ -11,7 +11,7 @@ I am a computer science graduate from UNC Charlotte.
 - Web Development: HTML, CSS, Javascript
 - Game Development: Unity, Gamemaker Studio 2
 - Databases: MySQL, SQLAlchemy
-- Libraries/Frameworks: Flask, Numpy, JQuery
+- Libraries/Frameworks: React, Flask, Numpy, JQuery
 - Operating Systems: Windows, MacOS, Linux/Unix
 - Git
 
