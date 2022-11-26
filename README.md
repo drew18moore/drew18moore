@@ -1,10 +1,10 @@
 ### Hi there, I'm Drew Moore👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew18moore/)
+I am a front-end developer with computer science degree
 
-I am a computer science graduate from UNC Charlotte.
-
----
+- 🔭 &nbsp;I’m currently working on improving my skills with React.js
+- 🌱 &nbsp;I’m currently learning Node.js and Express.js
+- 📫 &nbsp;How to reach me: drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
 - Languages: Python, Java, C#
@@ -17,9 +17,4 @@ I am a computer science graduate from UNC Charlotte.
 
 ### :chart_with_upwards_trend: My GitHub Stats:
 
-![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drew18moore&show_icons=true)
-
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drew18moore&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew18moore&layout=compact&exclude_repo=ITCS4231_Project,ITCS4236_Project&langs_count=8&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=drew18moore&theme=gruvbox&hide_border=true" alt="mystreak"/>
