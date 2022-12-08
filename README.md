@@ -2,18 +2,15 @@
 
 I am a front-end developer with computer science degree
 
-- 🔭 &nbsp;I’m currently working on improving my skills with React.js
-- 🌱 &nbsp;I’m currently learning Node.js and Express.js
-- 📫 &nbsp;How to reach me: drewmoore052@gmail.com
+- 🔭 &nbsp;I’m currently working on improving my skills with <i>React.js</i>
+- 🌱 &nbsp;I’m currently learning <i>Node.js</i> and <i>Express.js</i>
+- 📫 &nbsp;How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/drew18moore/)
+  - drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
-- Languages: Python, Java, C#
-- Web Development: HTML, CSS, Javascript
-- Game Development: Unity, Gamemaker Studio 2
-- Databases: MySQL, SQLAlchemy
-- Libraries/Frameworks: React, Flask, Numpy, JQuery
-- Operating Systems: Windows, MacOS, Linux/Unix
-- Git
+- Languages: <i>Javascript, HTML, CSS, Python, C#</i>
+- Libraries/Frameworks: <i>React.js, JQuery, Flask</i>
 
 ### :chart_with_upwards_trend: My GitHub Stats:
 
