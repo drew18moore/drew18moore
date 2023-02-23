@@ -2,15 +2,15 @@
 
 I am a front-end developer with computer science degree
 
-- 🔭 &nbsp;I’m currently working on improving my skills with <i>React.js</i>
-- 🌱 &nbsp;I’m currently learning <i>Node.js</i> and <i>Express.js</i>
+- 🔭 &nbsp;I’m currently working on improving my skills
+- 🌱 &nbsp;I’m currently learning <i>Django</i>
 - 📫 &nbsp;How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/drew18moore/)
   - drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
-- Languages: <i>Javascript, HTML, CSS, Python, C#</i>
-- Libraries/Frameworks: <i>React.js, JQuery, Flask</i>
+- Languages: <i>Javascript, HTML, CSS, Python</i>
+- Libraries/Frameworks: <i>React.js, Node.js, Express.js, JQuery, Flask</i>
 
 ### :chart_with_upwards_trend: My GitHub Stats:
 
