@@ -3,7 +3,7 @@
 I am a front-end developer with computer science degree
 
 - 🔭 &nbsp;I’m currently working on improving my skills
-- 🌱 &nbsp;I’m currently learning <i>Django</i>
+- 🌱 &nbsp;I’m currently learning <i>Django</i> and <i>Angular</i>
 - 📫 &nbsp;How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/drew18moore/)
   - drewmoore052@gmail.com
