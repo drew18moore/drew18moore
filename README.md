@@ -3,14 +3,15 @@
 I am a front-end developer with computer science degree
 
 - 🔭 &nbsp;I’m currently working on improving my skills
-- 🌱 &nbsp;I’m currently learning <i>Django</i> and <i>Angular</i>
+- 🌱 &nbsp;I’m currently learning <i>Next.js</i> and <i>Spring Boot</i>
 - 📫 &nbsp;How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/drew18moore/)
   - drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
-- Languages: <i>Javascript, HTML, CSS, Python</i>
-- Libraries/Frameworks: <i>React.js, Node.js, Express.js, JQuery, Flask</i>
+- Languages: <i>Typescript, Javascript, HTML, CSS, Python, SQL</i>
+- Libraries/Frameworks: <i>React, Node, Express, React Query, Tailwind, Flask</i>
+- Databases: MongoDB, Prisma, PostgreSQL
 
 ### :chart_with_upwards_trend: My GitHub Stats:
 
