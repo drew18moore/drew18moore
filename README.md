@@ -9,9 +9,9 @@ I am a front-end developer with computer science degree
   - drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
-- Languages: <i>Typescript, Javascript, HTML, CSS, Python, SQL</i>
-- Libraries/Frameworks: <i>React, Node, Express, React Query, Tailwind, Flask</i>
-- Databases: MongoDB, Prisma, PostgreSQL
+- Languages: <i>Typescript, Javascript, Java, Python, HTML, CSS, SQL</i>
+- Libraries/Frameworks: <i>React, React Native, Node, Express, Spring Boot, Redux, React Query, Tailwind</i>
+- Databases: MongoDB, Prisma, PostgreSQL, MySQL
 
 ### :chart_with_upwards_trend: My GitHub Stats:
 
