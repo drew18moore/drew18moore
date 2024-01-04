@@ -2,15 +2,14 @@
 
 I am a front-end developer with computer science degree
 
-- 🔭 &nbsp;I’m currently working on improving my skills
-- 🌱 &nbsp;I’m currently learning <i>Next.js</i> and <i>Spring Boot</i>
+- 🔭 &nbsp;I’m currently working building stuff
 - 📫 &nbsp;How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/drew18moore/)
   - drewmoore052@gmail.com
 
 ### :hammer_and_wrench: Skills :
 - Languages: <i>Typescript, Javascript, Java, Python, HTML, CSS, SQL</i>
-- Libraries/Frameworks: <i>React, React Native, Node, Express, Spring Boot, Redux, React Query, Tailwind</i>
+- Libraries/Frameworks: <i>React, React Native, Angular, Node, Express, Spring Boot, Redux, React Query, Tailwind</i>
 - Databases: MongoDB, Prisma, PostgreSQL, MySQL
 
 ### :chart_with_upwards_trend: My GitHub Stats:
